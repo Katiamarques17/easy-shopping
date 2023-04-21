@@ -5,6 +5,7 @@
 Easy Shopping é um projeto com o layout da pagina criado com desing responsivo, ou seja, adapta-se a diferentes tamanhos de tela,o que garante uma melhor experiência do usuário.
 <br>
 <br>
+<img src="https://github.com/Katiamarques17/easy-shopping/blob/master/img/Desktop.png?raw=true">
 Tecnologias utilizadas
 <br>
 <br>
